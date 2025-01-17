@@ -7,7 +7,7 @@ public class Calculator {
         Scanner scanner = new Scanner(System.in);
 
         // Display menu
-        System.out.println("Basic Calculator BEROE1");
+        System.out.println("Basic Calculator BEROE2");
         System.out.println("================");
         System.out.println("Choose an operation:");
         System.out.println("1. Addition (+)");
